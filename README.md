@@ -1,6 +1,6 @@
 # AI Incident Update Generator
 
-A minimal single-page web app for generating customer-facing incident communications using AI.
+An AI-native incident communication workflow using Next.js and Anthropic Claude API that transforms structured inputs into concise, accurate, and customer-friendly messages to reduce manual effort and response times for production support teams during high severity incidents.
 
 https://github.com/user-attachments/assets/7ba027b3-a173-43c7-9f67-e765c4f9eb92
 
