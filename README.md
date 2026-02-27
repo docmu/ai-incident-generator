@@ -2,6 +2,12 @@
 
 A minimal single-page web app for generating customer-facing incident communications using AI.
 
+https://github.com/user-attachments/assets/7ba027b3-a173-43c7-9f67-e765c4f9eb92
+
+[Full Loom Demo](https://www.loom.com/share/a695c4fb64f04120a0cdbeeacea02795)
+
+
+
 ## Setup
 
 1. Install dependencies:
